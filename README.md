@@ -1,1 +1,1 @@
-# geaglehotspots
+# geaglehotspot
